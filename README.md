@@ -5,7 +5,7 @@ Desenvolvedor fullstack • Java (Spring Boot) • Angular • PostgreSQL
 - 🚀 Projetos: Classificados Web (Angular + Spring Boot)
 - 🧭 Interesses: DX, automação, integrações, simplificação de stack
 - 🌍 São Paulo, Brasil
-- 🔗 Portfólio/Links: [LinkedIn](https://www.linkedin.com/in/SEU-USUARIO) • [Site](https://SEU-SITE.com)
+- 🔗 Portfólio/Links: [LinkedIn](https://www.linkedin.com/in/luciano-santos-54342a5/) • [Site](https://lucianosan.sytes.net)
 - ✉️ Contato: lucianosan@gmail.com
 
 ![Followers](https://img.shields.io/github/followers/lucianosan?style=social)
