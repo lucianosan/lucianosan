@@ -51,5 +51,5 @@ Desenvolvedor fullstack • Java (Spring Boot) • Angular • PostgreSQL
 Foco em desenvolvimento de aplicações web com backend robusto em Spring Boot e frontends eficientes em Angular. Experiência também com JavaEE/EJB/JSF, integrações SOAP e RESTful, e bancos Oracle, DB2, MySQL e PostgreSQL.
 
 ## Contato
-- LinkedIn: https://www.linkedin.com/in/SEU-USUARIO
+- LinkedIn: https://www.linkedin.com/in/luciano-santos-54342a5/
 - Email: lucianosan@gmail.com
